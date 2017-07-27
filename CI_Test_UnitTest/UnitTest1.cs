@@ -10,7 +10,7 @@ namespace CI_Test_UnitTest
         [Test]
         public void TestMethod1()
         {
-            Assert.AreEqual(10, 10);
+            Assert.AreEqual(2, 10);
         }
     }
 }
