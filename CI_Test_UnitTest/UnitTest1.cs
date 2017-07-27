@@ -4,6 +4,7 @@ using NUnit.Framework;
 namespace CI_Test_UnitTest
 {
     [TestFixture]
+    [Category("MyFirstTestRunning")]
     public class UnitTest1
     {
         [Test]
